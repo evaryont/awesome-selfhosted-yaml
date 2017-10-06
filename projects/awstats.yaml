@@ -1,0 +1,23 @@
+# project name, formatted for presentation
+name: 'AWStats'
+# project description (<250 chars)
+description: "Generates web, streaming, ftp or mail server statistics graphically."
+# link to project homepage
+homepage_url: 'http://www.awstats.org/'
+# link to source code, if different from homepage
+source_url: 'https://github.com/eldy/awstats'							
+# link to demo, if any
+demo_url: ''
+# date of last update to the project (should be autodetected when possible)
+last_update_date: ''
+# set to yes if the program requires third party network services outside of user control
+requires_third_party_service: ''
+# main languages or platform required to run the software
+language_or_platform: 'perl'
+# shortname of the program's license (must be a SPDX license code, or 'custom:URL')
+license: 'GPLv3'
+# tags/(sub)categories the project can be classified under
+# at least one must match a name in sections.yaml
+sections:									
+  - 'analytics'
+  - 'web analytics'

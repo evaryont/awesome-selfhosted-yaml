@@ -1,0 +1,5 @@
+- name: "analytics"
+- name: "communication systems"
+- name: "sip"
+  # short presentation text for the section/tag, markdown format
+  description: "[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software"
